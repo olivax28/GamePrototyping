@@ -1,0 +1,37 @@
+{
+  "_resourceType": "actor",
+  "id": "2b005e4b-4d05-4e09-a623-31cff8d1f7d3",
+  "name": "",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "_index": 6,
+  "symbol": "actor_9",
+  "x": 4,
+  "y": 26,
+  "script": [
+    {
+      "id": "f1d48a92-3c74-4809-8765-25be3b2d2db5",
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Leaving will\nrestart the game."
+        ]
+      }
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": []
+}

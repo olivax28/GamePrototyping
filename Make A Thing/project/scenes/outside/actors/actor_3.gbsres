@@ -1,0 +1,106 @@
+{
+  "_resourceType": "actor",
+  "id": "5cf6eb6c-be62-4efc-9cbb-14a8efac21a8",
+  "_index": 2,
+  "symbol": "actor_6",
+  "prefabId": "",
+  "name": "",
+  "x": 14,
+  "y": 10,
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "dfa75239-299d-41fe-a6cd-9e9438da1938",
+  "paletteId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "script": [
+    {
+      "command": "EVENT_ACTOR_EMOTE",
+      "args": {
+        "actorId": "$self$",
+        "emoteId": "da932101-c304-4f21-8dc9-0f5dc6178727"
+      },
+      "id": "b58257fe-5b79-481d-8f12-92540f7d63b8"
+    },
+    {
+      "id": "b1c3d75d-d579-47af-8f3e-4cd96178fbb0",
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Hello!"
+        ]
+      }
+    },
+    {
+      "id": "8ffac2a0-a735-40f1-b51e-dd270cc09ba9",
+      "command": "EVENT_ACTOR_SET_DIRECTION",
+      "args": {
+        "actorId": "5cf6eb6c-be62-4efc-9cbb-14a8efac21a8",
+        "direction": {
+          "type": "direction",
+          "value": "down"
+        }
+      }
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Looks like \nanother beautiful\nday, huh?"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "d8872931-a634-4be1-a816-3f3b5120267b"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Why don't you \nlook around?\nSomeone may need \nyour help."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "693f3b73-6564-4cb0-99de-59f7dcefcac0"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": []
+}

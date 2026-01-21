@@ -1,0 +1,85 @@
+{
+  "_resourceType": "variables",
+  "variables": [
+    {
+      "id": "0",
+      "name": "ladderfound",
+      "symbol": "var_ladderfound"
+    },
+    {
+      "id": "1",
+      "name": "Seen duck",
+      "symbol": ""
+    },
+    {
+      "id": "2",
+      "name": "Used Radio",
+      "symbol": ""
+    },
+    {
+      "id": "3",
+      "name": "Spoke To Space Dog",
+      "symbol": ""
+    },
+    {
+      "id": "4",
+      "name": "Quest1",
+      "symbol": ""
+    },
+    {
+      "id": "5",
+      "name": "Quest2",
+      "symbol": ""
+    },
+    {
+      "id": "6",
+      "name": "Quest3",
+      "symbol": ""
+    },
+    {
+      "id": "7",
+      "name": "Quest4",
+      "symbol": ""
+    },
+    {
+      "id": "8",
+      "name": "Quest5",
+      "symbol": ""
+    },
+    {
+      "id": "9",
+      "name": "Quest6",
+      "symbol": ""
+    },
+    {
+      "id": "10",
+      "name": "NewGame",
+      "symbol": ""
+    },
+    {
+      "id": "11",
+      "name": "SaveGame",
+      "symbol": ""
+    },
+    {
+      "id": "12",
+      "name": "PushedIceBlock",
+      "symbol": ""
+    },
+    {
+      "id": "13",
+      "name": "catinhouse",
+      "symbol": "var_catinhouse"
+    },
+    {
+      "id": "076a0612-024a-426a-85fc-3e1054b9f74e__L0",
+      "name": "housecat",
+      "symbol": "var_housecat_0"
+    },
+    {
+      "id": "076a0612-024a-426a-85fc-3e1054b9f74e__L1",
+      "name": "ladderplaced",
+      "symbol": "var_ladderplaced"
+    }
+  ]
+}

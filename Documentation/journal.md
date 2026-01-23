@@ -34,7 +34,7 @@ my game would stop compiling again. As a result, many hours I would have spent w
 the actual gameplay were instead allocated to fixing this problem, and the scope of my game was
 greatly minimized.
 
-###Finally
+### Finally
 Of course, not all was in vain. I found that bringing in the provided assets into Photoshop,
 where I edited them to suit my game better, provided an opportunity to study and modify
 game-ready pixel art. As well, the experience was also a lesson in planning and anticipating for

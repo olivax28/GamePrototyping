@@ -23,9 +23,9 @@ coding terms and often-used functions into simple drop-down menus. At the beginn
 process, I found the experience overall pleasant, easy to use and encouraging for someone
 relatively new to gamemaking.
 
-!\[](media/Bedroom\_withCat)
+!\[](media/Bedroom\_withCat.png)
 
-!\[](media/ladder-found)
+!\[](media/ladder-found.png)
 
 ### Issues
 

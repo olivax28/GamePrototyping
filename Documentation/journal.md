@@ -50,3 +50,19 @@ glitches and setbacks, something inevitable during the game making process. Over
 a Thing” project still introduced me to a new way of making games, and the program was fun
 enough to use that I would be willing to give it a second chance.
 
+## Journal 02 | Due 2026-01-29
+
+## Trouble getting started
+
+For my first design journal, I intended to follow a tutorial based on player movement, coliders, and other basic game functions as we did not get to these topics during the class session. However, I unfortunately ran into many technical issues which hindered by ability to complete the tutorial. In a way, my situation is very in-line with my first design journal, as I did not anticipate to have issues installing Unity on my device. Hopefully I will have the instalation working soon, however, it is nonetheless another early lesson in planning to allocate time for these types of setbacks.
+
+## Plans Moving Forward
+
+Of course, my main priority at this moment is to get Unity working on my computer. I still plan on following the tutorial that I have chosen once this is done. The end result should be a simple 2D "catch-all" game, complete with a Game Over screen, an amount of time played, and custom sprites. Although I have chosen this tutorial due to its ability to teach basic technical aspects, I would like to use this knowledge to expand into a game genre that I am more interested in, which is the RPG. I can see how the implimentation of sprites, coliders and point systems can easily translate over into other game genres, and I would like to slowly build around the 2D format in order to create a story-driven, imersive experience. 
+
+## Setting Goals
+
+For next week, I would like to have finally ironed out my major technical issues and have started building some sort of base for a project I care about. There are a few projects which come to mind in terms of ideas I'd like to bring to life, and the possibility of expanding on them is very exciting. I will begin by having the scaffolding of a project for next week before mapping out fully fleshed out ideas. There needs to be sand in the sandbox before a castle can be built!
+
+The tutorial I aimed to follow: https://youtu.be/xx1oKVTU_gM?si=0jEpK0FzO9lbCpPR
+

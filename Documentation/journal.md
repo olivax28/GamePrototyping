@@ -25,9 +25,9 @@ relatively new to gamemaking.
 
 
 
-!\[ ](Documentation/media/Bedroom\_withCat.png)
+![](Documentation/media/Bedroom\_withCat.png)
 
-!\[ ](Documentation/media/ladder-found.png)
+![](Documentation/media/ladder-found.png)
 
 ### Issues
 

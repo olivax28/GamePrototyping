@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class playerController : MonoBehaviour
@@ -5,15 +6,17 @@ public class playerController : MonoBehaviour
     float horizontalInput;
     float moveSpeed = 10f;
     Rigidbody2D rb;
+
+    public event Action PlayerDied;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        
+
     }
 
-    
-   
+
+
 
     // Update is called once per frame
     void Update()
@@ -24,5 +27,14 @@ public class playerController : MonoBehaviour
     private void FixedUpdate()
     {
         rb.linearVelocity = new Vector2(horizontalInput * moveSpeed, rb.linearVelocity.y);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Object"))
+        {
+            PlayerDied.Invoke();
+            Destroy(this.gameObject);
+        }
     }
 }

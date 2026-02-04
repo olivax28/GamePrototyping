@@ -92,7 +92,6 @@ My secondary priorities would be:
 
 I know that making the entire game within a few weeks would be near impossible, so I want to keep my goals concrete and realistic. I would like to have a short, working demo by the end of the semester which shows basic functionality and basic visuals to get the gameplay feeling across. In other words, I'd like to have a working base that I could build off of in the future.
 
-Here is a small moodboard and some quick sketches I made while brainstorming:
-
+Here is a small moodboard and some quick sketches I made while brainstorming
 ![](media/sketches.png)
 

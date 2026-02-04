@@ -95,3 +95,5 @@ I know that making the entire game within a few weeks would be near impossible, 
 Here is a small moodboard and some quick sketches I made while brainstorming
 ![](media/sketches.png)
 
+Followed tutorial: https://www.youtube.com/watch?v=AmGSEH7QcDg&t=5376s
+

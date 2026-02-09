@@ -102,5 +102,5 @@ Followed tutorial: https://www.youtube.com/watch?v=AmGSEH7QcDg&t=5376s
 ## Setting Goals for the week
 
 My main goals for this week are:
-- Set up a Unity project, get basic movement and interaction system done or in progress
+- Set up a Unity project, get basic movement and interaction system done or in progress (this can include player and NPC interaction)
 - Using premade assets, set up a basic environment to begin exploring potential player experience.

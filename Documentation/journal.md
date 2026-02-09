@@ -97,3 +97,10 @@ Here is a small moodboard and some quick sketches I made while brainstorming
 
 Followed tutorial: https://www.youtube.com/watch?v=AmGSEH7QcDg&t=5376s
 
+## Journal 03 | Due 2026-02-12
+
+## Setting Goals for the week
+
+My main goals for this week are:
+- Set up a Unity project, get basic movement and interaction system done or in progress
+- Using premade assets, set up a basic environment to begin exploring potential player experience.

@@ -104,3 +104,22 @@ Followed tutorial: https://www.youtube.com/watch?v=AmGSEH7QcDg&t=5376s
 My main goals for this week are:
 - Set up a Unity project, get basic movement and interaction system done or in progress (this can include player and NPC interaction)
 - Using premade assets, set up a basic environment to begin exploring potential player experience.
+
+## Progress on Goals
+
+For this week, I've finally started building the project in Unity. To get a feeling for the player experience, I've implemented a simple 3D first-person camera and movement system with gravity, as well as a script that allows for the player to interact with objects posessing a collider. The most important part for me is that now I can begin to iterate on different sets and UI setups, creating different levels almost as "sketches" in order to better feel out what functionality I will need in terms of scripting down the line. In other words, I've met my goals.
+
+INSERT IN-GAME IMAGES HERE
+
+As someone who thinks visually, it'll be interesting to finally have an actual project to work with and explore different game feels. Of course, as the functionality is simple at this point the variations will mostly be visual for next week. However, I expect that every week will build at LEAST one extra function every week. A function for me could be something big, like a interaction system or something more simple, like adding a UI "task list."
+
+## Looking Foward
+
+I know that the week coming up will be particularly busy, so I want to set goals that are reachable, but that will continue to help build a clearer idea of the game.
+
+My thoughts for my goals are:
+
+- Add movement to the NPC and assign dialogue specific to each one
+- Do paper (or digital) drawn sketches of different game layouts
+- Apply these in an iterative way as sketch levels
+

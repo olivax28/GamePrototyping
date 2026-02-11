@@ -1,3 +1,4 @@
+using Unity.Mathematics;
 using UnityEngine;
 
 public class PlayerCam : MonoBehaviour
@@ -25,6 +26,10 @@ public class PlayerCam : MonoBehaviour
         // cam rotation orientation
         xRotation -= mouseY;
         xRotation = Mathf.Clamp(xRotation, -90f, 90f);
+
+        // roatte cam and orientation
+        transform.rotation = quaternion.Euler(xRotation, yRotation, 0);
+        orientation.rotation = Quaternion.Euler(0, yRotation, 0);
     }
 
 }

@@ -111,7 +111,7 @@ For this week, I've finally started building the project in Unity. To get a feel
 
 The only issue right now is that setting up a more complex interaction system that is modular will take much longer than I anticipated. Although the character can detect NPCs and objects with a collider, I found that the dialogue and UI elements that come with it require more back-end code, including a sustem to handle all these different elements. This I will have to keep for later.
 
-![A look at the rough setup with downloaded assets](media/setup_rough.PNG)
+![A look at the rough setup with downloaded assets](media/setup_rough.png)
 ![Demonstration of the First person player moving through space](media/playerview.gif)
 
 As someone who thinks visually, it'll be interesting to finally have an actual project to work with and explore different game feels. Of course, as the functionality is simple at this point the variations will mostly be visual for next week. However, I expect to build at LEAST one extra function every week. A function for me could be  big, like a interaction system or something more simple, like adding a UI "task list."

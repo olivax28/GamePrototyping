@@ -109,9 +109,12 @@ My main goals for this week are:
 
 For this week, I've finally started building the project in Unity. To get a feeling for the player experience, I've implemented a simple 3D first-person camera and movement system with gravity, as well as a script that allows for the player to interact with objects posessing a collider. The most important part for me is that now I can begin to iterate on different sets and UI setups, creating different levels almost as "sketches" in order to better feel out what functionality I will need in terms of scripting down the line. In other words, I've met my goals.
 
-INSERT IN-GAME IMAGES HERE
+The only issue right now is that setting up a more complex interaction system that is modular will take much longer than I anticipated. Although the character can detect NPCs and objects with a collider, I found that the dialogue and UI elements that come with it require more back-end code, including a sustem to handle all these different elements. This I will have to keep for later.
 
-As someone who thinks visually, it'll be interesting to finally have an actual project to work with and explore different game feels. Of course, as the functionality is simple at this point the variations will mostly be visual for next week. However, I expect that every week will build at LEAST one extra function every week. A function for me could be something big, like a interaction system or something more simple, like adding a UI "task list."
+![A look at the rough setup with downloaded assets](media/setup_rough.PNG)
+![Demonstration of the First person player moving through space](media/playerview.gif)
+
+As someone who thinks visually, it'll be interesting to finally have an actual project to work with and explore different game feels. Of course, as the functionality is simple at this point the variations will mostly be visual for next week. However, I expect to build at LEAST one extra function every week. A function for me could be  big, like a interaction system or something more simple, like adding a UI "task list."
 
 ## Looking Foward
 
@@ -121,5 +124,5 @@ My thoughts for my goals are:
 
 - Add movement to the NPC and assign dialogue specific to each one
 - Do paper (or digital) drawn sketches of different game layouts
-- Apply these in an iterative way as sketch levels
+- Apply these in an iterative way as sketch levels 
 

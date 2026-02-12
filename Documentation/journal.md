@@ -97,7 +97,7 @@ Here is a small moodboard and some quick sketches I made while brainstorming
 
 Followed tutorial: https://www.youtube.com/watch?v=AmGSEH7QcDg&t=5376s
 
-## Journal 03 | Due 2026-02-12
+## Journal 04 | Due 2026-02-12
 
 ## Setting Goals for the week
 

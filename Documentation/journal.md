@@ -126,3 +126,24 @@ My thoughts for my goals are:
 - Do paper (or digital) drawn sketches of different game layouts
 - Apply these in an iterative way as sketch levels 
 
+## Journal 05 | Due 2026-02-19
+
+## Rethinking Ideas
+
+I've been rethinking my idea and overall goals for my project during the past week. Although I want a project I could build off of after, I also really want to have a result in the end that feels like a final piece. It's a lot easier to set goals and map out a timeline when I have a finsihed product in mind, rather than a more abstract goal of having "basic functionality." I also think that it'll be more motivating if I am working toward a finalized goal.
+
+My idea remains largely the same in terms of theme. However, the experience of the game will go in this order:
+
+1. A Player recieves an item to fix from a customer upon pressing play
+2. They will have to go through a short list of fixes for the item, which will show as a UI list. This means that they will need to interact with the correct tools, and this will play a fixing animation
+3. They will be prompted to give the item back to the customer (interacting by pressing E or enter)
+4. A "glitch" cutscene will play. This would simulate a "haunting" that might happen in the final (previous) version of the game, but in this new version, it may be a cutscene, or perhaps a change of lighting and texture in the environment, leading to the player blacking out.
+5. The final part of the game will be more exploratory in terms of gameplay. In my mind, the player will "wake up" and regain control via AWSD, and be introduced to a large expanse (probably a field) where they will be able to interact with different objects, abandoned technology, which will display a bubble of information upon interacting. This can be interpreted as an representation of the player's character state of mind. There will be a way of resetting the game by reaching a building or other landmark.
+
+The following is an upload of my sketeches I did while brainstorming:
+
+![](media/new_idea.png)
+
+The new game still has a lot of the same mechanics, but is a bit tighter in scope in the fact that I can actually imagine exactly what I need to make and learn for this project. 
+
+## Beginning Application

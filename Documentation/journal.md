@@ -150,9 +150,11 @@ The new game still has a lot of the same mechanics, but is a bit tighter in scop
 
 Becaue I've changed my idea, my goals changed a bit during this week. As well, I knew in advance (as I mentioned) that I would be busy and so, I decided to explore the last part of my new idea, the grassy field. The work for this lay mostly in trying to find the best way to create grass in Unity. I was looking for something stylized, yet still believable. I ended up doing some tests with the in-built terrain tools. After some work on adding the grass and the application of post-processing effects, I ended up with a style I really liked. 
 
-![](media/grass_resized01.gif)
+![](media/grass_test_resized01.gif)
 
-The most prominent issue, unfortunately, is that this way of rendering grass seems to be heavy of the system. I will need to see if there is a way of opmitizing the system. 
+The most prominent issue, unfortunately, is 
+
+that this way of rendering grass seems to be heavy of the system. I will need to see if there is a way of opmitizing the system. 
 
 ## Returning to Goals
 

@@ -147,3 +147,13 @@ The following is an upload of my sketeches I did while brainstorming:
 The new game still has a lot of the same mechanics, but is a bit tighter in scope in the fact that I can actually imagine exactly what I need to make and learn for this project. 
 
 ## Beginning Application
+
+Becaue I've changed my idea, my goals changed a bit during this week. As well, I knew in advance (as I mentioned) that I would be busy and so, I decided to explore the last part of my new idea, the grassy field. The work for this lay mostly in trying to find the best way to create grass in Unity. I was looking for something stylized, yet still believable. I ended up doing some tests with the in-built terrain tools. After some work on adding the grass and the application of post-processing effects, I ended up with a style I really liked. 
+
+![](media/grass_resized01.gif)
+
+The most prominent issue, unfortunately, is that this way of rendering grass seems to be heavy of the system. I will need to see if there is a way of opmitizing the system. 
+
+## Returning to Goals
+
+For next week, I know I will finally have more time to allocate to this project. An so, going forward I'd like to at last get to building an interaction system, complete with dialogue/descriptions for interacted objects, as this will be the main way a player will acquire information.
